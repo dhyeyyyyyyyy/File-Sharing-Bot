@@ -1,4 +1,4 @@
-# fileflyerbot - chat bot
+# Fileflyerbot - File Sharing Bot
 It is repository for chat bot: [@fileflyerbot](https://t.me/fileflyerbot)
 
 ## What it is?
